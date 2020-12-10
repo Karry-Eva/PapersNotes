@@ -1,0 +1,8 @@
+@misc{wu2019neural,
+      title={Neural News Recommendation with Attentive Multi-View Learning}, 
+      author={Chuhan Wu and Fangzhao Wu and Mingxiao An and Jianqiang Huang and Yongfeng Huang and Xing Xie},
+      year={2019},
+      eprint={1907.05576},
+      archivePrefix={arXiv},
+      primaryClass={cs.CL}
+}
